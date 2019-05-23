@@ -1,0 +1,20 @@
+body {
+    background-image:url('https://c8.alamy.com/comp/G0MF5D/template-coding-and-programming-theme-green-cyan-numbers-rows-vector-G0MF5D.jpg');
+    background-size:cover;
+    max-width: 200px;
+}
+.me {
+    flex: right;
+    border-radius:50%
+}
+h1 {
+    color:whitesmoke;
+    font-size: 100px;
+    margin-left:50px
+
+}
+.quote p {
+    color:whitesmoke;
+    font-size:50px;
+    
+}
