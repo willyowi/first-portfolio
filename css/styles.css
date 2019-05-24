@@ -6,10 +6,12 @@ body {
  h1 {
      color: whitesmoke;
      font-size: 50px;
-
+    text-align: center;
  }
 img {
     border-radius:100%;
+    position: relative;
+    left: 500px;
 }
 .center{
     position: relative;
@@ -37,4 +39,8 @@ ul li a {
     color:white;
     display:block;
     font-family: 'Rock Salt', cursive;
+}
+.row {
+    position: relative;
+    text-align:center;
 }
