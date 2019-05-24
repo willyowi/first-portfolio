@@ -69,14 +69,16 @@ ol li {
     list-style: none;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 5px solid black;
   }
   table {
     border-collapse: collapse;
     position: relative;
-    left: 200px
+    left: 400px
+    
   }
 #table {
     width: 600px;
-    height: 400px;
+    height: 200px;
+    background-color: beige;
 }
