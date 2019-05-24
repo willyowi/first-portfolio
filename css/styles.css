@@ -16,3 +16,25 @@ img {
     left: 300px;
     font-family: 'Rock Salt', cursive;
 }
+ ul li {
+    float:left;
+    width:200px;
+    height:40px;
+    opacity:.8;
+    text-align:40px;
+    margin-right:49px;
+    margin-left:50px;
+    list-style:none;
+}
+ul li a:hover {
+    background-color:rgb(60, 60, 75);
+}
+ul li a {
+    text-decoration:none;
+    font-size:25px;
+    padding:3px solid white;
+    text-align:none;
+    color:white;
+    display:block;
+    font-family: 'Rock Salt', cursive;
+}
