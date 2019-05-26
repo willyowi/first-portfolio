@@ -86,3 +86,18 @@ table, th, td {
     color:whitesmoke;
     font-size:25px
 }
+.first {
+    display:flex;
+
+}
+.projectone {
+    flex:50%;
+    right:100px;
+    position: relative;
+}
+.projecttwo {
+    float: 50%;
+    right:100px;
+    position: relative;
+    
+}
